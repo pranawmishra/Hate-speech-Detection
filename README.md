@@ -1,11 +1,11 @@
 # Hate-speech-Detection
-Hate speech is one of the serious issues we see on social media platforms like Facebook and Twitter, mostly from people with political views.In this article, we will walk through how to build an end-to-end hate speech detection system with Python.
+Hate speech is one of the serious issues we see on social media platforms like Facebook and Twitter, mostly from people with political views.In this project, we will walk through how to build an end-to-end hate speech detection system with Python.
 
 # End-to-End Hate Speech Detection with Python
-To create an end-to-end application for the task of hate speech detection, we must first learn how to train a machine learning model to detect if there is hate speech in a piece of text.To deploy this model as an end-to-end application, I will be using the streamlit library in Python which will help us see the predictions of the hate speech detection model in real-time.
+To create an end-to-end application for the task of hate speech detection, we must first learn how to train a machine learning model to detect if there is hate speech in a piece of text.To deploy this model as an end-to-end application, we will be using the streamlit library in Python which will help us see the predictions of the hate speech detection model in real-time.
 
 
-As we are using the streamlit library in Python here so we cannot run this application the same way we run other Python programs. You need to write the command mentioned below in your command prompt or terminal:
+As we are using the streamlit library in Python here so we cannot run this application the same way we run other Python programs. we need to write the command mentioned below in your command prompt or terminal:
 
                         streamlit run filename.py
                         
