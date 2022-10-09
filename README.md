@@ -7,7 +7,7 @@ To create an end-to-end application for the task of hate speech detection, we mu
 
 As we are using the streamlit library in Python here so we cannot run this application the same way we run other Python programs. You need to write the command mentioned below in your command prompt or terminal:
 
-                        ### streamlit run filename.py
+                        streamlit run filename.py
                         
 Once the above command is executed, it will open a link on our default web browser which will show an end-to-end application where we have to write some text and it will detect if the text contains hate speech, offensive language or not, as shown in the image below.
 
